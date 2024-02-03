@@ -5,7 +5,6 @@ RESTful API endpoints.
 Database integration with Spring Data JPA.
 
 2. React Frontend:
-
 Responsive and dynamic user interface.
 State management using React Hooks.
 Integration with backend APIs.
